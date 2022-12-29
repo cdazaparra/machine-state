@@ -1,0 +1,277 @@
+27/12/22, 15:09 https://platzi.com/clases/examen/resultados/2118/
+
+Q (a) TS
+
+(5) Curso Profesional de React Hooks
+
+ 
+
+¡No te rindas!
+
+Necesitas una calificación mínima de 9.0 para aprobar.
+Vuelve a intentarlo en 05 horas, 55 minutos, 19 segundos
+
+435 | 10/23
+
+. o Aciertos
+Calificación
+
+1. ¿Cuál de los siguientes React Hooks es un impostor (no es oficial de React.js)?
+
+ 
+
+useLifecycle Y
+
+ 
+
+ 
+
+2. ¿El custom hook getHomeData cumple con las reglas y convenciones de los React
+Hooks?
+
+Falso v]
+
+3. ¿El custom hook useHomeData cumple con las reglas y convenciones de los React
+Hooks?
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/2118/ 1/5
+27/12/22, 15:09 https://platzi.com/clases/examen/resultados/2118/
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+4. ¿Cuáles reglas debes seguir para crear tu propio custom hook?
+
+ 
+
+Todas las respuestas son correctas. REPASAR CLASE |
+
+ 
+
+ 
+
+5. ¿A partir de cuál versión de React.js podemos crear componentes con React Hooks?
+
+ 
+
+A partir de la versión 16.8. Y l
+
+ 
+
+ 
+
+6. ¿Es posible crear componentes con hooks y componentes con clases en un mismo
+proyecto?
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+7. useState nos permite:
+
+ 
+
+Agregar estado y ciclo de vida a componentes creados como funciones. REPASAR CLASE |
+
+ 
+
+ 
+
+8. Un ejemplo correcto de cómo usar useState es:
+
+ 
+
+const [state, setState] = React.useState(initialState); Y l
+
+ 
+
+ 
+
+9. useEffect nos permite:
+
+https://platzi.com/clases/examen/resultados/2118/ 2/5
+27/12/22, 15:09 https://platzi.com/clases/examen/resultados/2118/
+
+ 
+
+Definir métodos de ciclo de vida en componentes creados como funciones. Est REPASAR CLASE
+igual que componentDidMount.
+
+ 
+
+ 
+
+10. ¿En cuál de los siguientes ejemplos nos aseguramos de que nuestro efecto se ejecuta
+solo una vez (cuando "montamos" el componente)?
+
+ 
+
+useEffect(() => £/* ... */ Y); REPASAR CLASE |
+
+ 
+
+ 
+
+11. ¿Cuál es la diferencia entre useEffect y useLayoutEffect?
+
+ 
+
+useEffect se ejecuta solo la primera vez que hacemos render, cuando montamos el X
+componente. usel ayoutEffect cada vez que hacemos render de nuestro componente.
+
+ 
+
+ 
+
+12. ¿Qué es memoization?
+
+ 
+
+Una técnica de optimización para evitar que realicemos los mismos cálculos una y otra vez. Y |
+
+ 
+
+ 
+
+13. ¿Cuál es el custom hook de Redux que nos permite elegir qué parte de nuestro estado
+leeremos en nuestro componente?
+
+ 
+
+useReducer Xx |
+
+ 
+
+ 
+
+14. ¿Cuál es el custom hook de React Router que funciona igual que el componente
+Route?
+
+ 
+
+useHistory X ]
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/2118/ 3/5
+27/12/22, 15:09 https://platzi.com/clases/examen/resultados/2118/
+
+15. ¿Cuál es el custom hook de React Router nos permite modificar o "empujar" la
+navegación de nuestra aplicación?
+
+ 
+
+useRouter Xx |
+
+ 
+
+ 
+
+16. ¿Cuál React Hook es más eficiente para "escuchar" los cambios o efectos de nuestro
+componente cuando también utilizamos useRef?
+
+ 
+
+useEffect Xx |
+
+ 
+
+ 
+
+17. useContext nos permite:
+
+ 
+
+Leer y modificar los mismos datos desde componentes en cualquier parte de la aplicación sin Y
+necesidad de props.
+
+ 
+
+ 
+
+18. useReducer nos permite:
+
+ 
+
+Agregar estado y modificarlo con reducers en componentes creados como funciones. Y |
+
+ 
+
+ 
+
+19. useMemo nos permite:
+
+ 
+
+Evitar que nuestro componente haga render más de una vez. REPASAR CLASE l
+
+ 
+
+ 
+
+20. useCallback nos permite:
+
+ 
+
+Ejecutar una función cuando el componente cumple ciertas condiciones y obtener su callback Y
+memoizado cuando no se cumplen.
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/2118/ 415
+27/12/22, 15:09 https://platzi.com/clases/examen/resultados/2118/
+
+21. ¿Qué optimización podemos hacer con React.memo?
+
+ 
+
+Nos aseguramos de que nuestro componente haga render solo una vez (porque no Xx
+mandaremos cambios en el futuro).
+
+ 
+
+ 
+
+22. ¿Cuál de las siguientes herramientas nos ayudan a manejar meta-etiquetas para
+trabajar el SEO de nuestra aplicación?
+
+ 
+
+Google Lighthouse REPASAR CLASE |
+
+ 
+
+ 
+
+23. useRef nos permite:
+
+ 
+
+Leer y modificar los mismos datos desde componentes en cualquier parte de la REPASAR CLASE
+necesidad de props.
+
+ 
+
+ 
+
+REGRESAR
+
+https://platzi.com/clases/examen/resultados/2118/ 5/5
+

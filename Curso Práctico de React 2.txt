@@ -1,0 +1,220 @@
+27/12/22, 15:03 https://platzi.com/clases/examen?/resultados/2484/
+
+Q (a) 0 Duros
+
+o Curso Práctico de React.js
+
+ 
+
+¡No te rindas!
+
+Necesitas una calificación mínima de 9.0 para aprobar.
+Vuelve a intentarlo en 05 horas, 53 minutos, 45 segundos
+
+8.67 | 13/15
+
+. o Aciertos
+Calificación
+
+1. ¿Qué es React.js?
+
+ 
+
+Una librería de JavaScript para construir interfaces de usuario. Y
+
+ 
+
+ 
+
+2. React.js nos permite construir interfaces con base en:
+
+ 
+
+Componentes Y l
+
+ 
+
+ 
+
+3. ¿Cuál es la súper empresa encargada de construir React.js?
+
+ 
+
+Facebook Y |
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/2484/ 1/4
+27/12/22, 15:03 https://platzi.com/clases/examen?/resultados/2484/
+
+4, ¿Qué es JSX?
+
+ 
+
+El sistema de plantillas de React que combina la sintaxis de JavaScript con XML. Y |
+
+ 
+
+ 
+
+5. ¿Qué es el Virtual DOM?
+
+ 
+
+Una copia o representación del DOM para evitar cambios innecesarios en el DOM real. Y |
+
+ 
+
+ 
+
+6. ¿Cómo creamos un elemento de React que se transforme en un DIV con la clase
+"container" usando JSX?
+
+ 
+
+cai className="container"></div> Y l
+
+ 
+
+ 
+
+7. ¿Cómo creamos un elemento de React que se transforme en un input de tipo texto
+usando JSX?
+
+ 
+
+<input type="text” /> Y l
+
+ 
+
+ 
+
+8. ¿Cuáles son las herramientas INDISPENSABLES que debemos instalar para usar React
+en una aplicación web?
+
+ 
+
+react y react-dom Y l
+
+ 
+
+ 
+
+9. ¿Cómo renderizamos el componente principal de nuestra aplicación con React 17?
+
+ 
+
+ReactD0M. render() Y ]
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/2484/ 2/4
+27/12/22, 15:03 https://platzi.com/clases/examen?/resultados/2484/
+
+10. Teniendo lo siguiente:
+
+const App = () => [
+return (
+<Layout>
+<Login />
+</Layout>
+);
+)
+
+¿Cuál es el código correcto del componente Layout?
+
+ 
+
+const Layout = (( children )) => ( return (
+
+<divclassname="Layout">(children)</div>
+
+3357)
+
+ 
+
+ 
+
+ 
+
+11. ¿Qué es React Router DOM?
+
+ 
+
+La herramienta más popular de React para separar nuestra aplicación entre páginas / rutas. Y ]
+
+ 
+
+ 
+
+12. ¿Cuál es la forma correcta crear un 404 con React Router DOM 5?
+
+ 
+
+Dentro del componente BrowserRouter. De último lugar con las demás rutas de  REPASAR CLASE
+Y con <Route component=(NotFound) />.
+
+ 
+
+ 
+
+13. ¿Qué herramienta de React nos permite trabajar con el estado en nuestros
+componentes?
+
+ 
+
+https://platzi.com/clases/examen/resultados/2484/ 3/4
+27/12/22, 15:03 https://platzi.com/clases/examen?/resultados/2484/
+
+ 
+
+React.useState Y |
+
+ 
+
+ 
+
+14. ¿Qué herramienta de React nos permite compartir un estado con todos los
+componentes de la aplicación?
+
+ 
+
+React.useState REPASAR CLASE |
+
+ 
+
+ 
+
+15. ¿Cuál es la forma correcta de actualizar un estado cuando los usuarios den click en un
+
+ 
+
+botón?
+( "y
+Y
+const Button = () => f
+const [count, setCount] = React.useState(1);
+return (
+<button onClick=(() => setCount(count + 1))>
+¡Click!
+</button>
+)5
+)
+pl A
+
+ 
+
+ 
+
+ 
+
+ 
+
+REGRESAR
+
+https://platzi.com/clases/examen/resultados/2484/ 4/4
+

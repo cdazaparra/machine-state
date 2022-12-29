@@ -1,0 +1,345 @@
+26/12/22, 12:00 https://platzi.com/clases/examen?/resultados/2242/
+
+Q (a) A TS
+
+(8) Curso de Webpack
+
+ 
+
+¡No te rindas!
+
+Necesitas una calificación mínima de 9.0 para aprobar.
+Vuelve a intentarlo en 05 horas, 55 minutos, 37 segundos
+
+4.83 | 14/29
+
+. o Aciertos
+Calificación
+
+1. ¿Qué es Webpack?
+
+ 
+
+Es un transpilador que nos permite programar en JavaScript con tipos y prograr REPASAR CLASE
+orientada a objetos.
+
+ 
+
+ 
+
+2. ¿Cuáles loaders usamos para trabajar en Webpack con CSS?
+
+ 
+
+css-loader y style-loader Y |
+
+ 
+
+ 
+
+3. ¿Debemos usar expresiones regulares para definir la extensión de los archivos que
+afectarán nuestros loaders?
+
+https://platzi.com/clases/examen/resultados/2242/ 1/6
+26/12/22, 12:00 https://platzi.com/clases/examen?/resultados/2242/
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+4. ¿Cuál plugin nos permite minificar nuestros estilos CSS?
+
+ 
+
+MinifyCssPlugin REPASAR CLASE
+
+ 
+
+ 
+
+5. ¿Cuál es la función del source-map?
+
+ 
+
+Nos permite brindar acceso a nuestra ubicación en el mapa interno de nuestro: REPASAR CLASE l
+
+ 
+
+ 
+
+6. ¿Para qué sirven los Alias en Webpack?
+
+ 
+
+Para identificar más fácilmente el "path" de los archivos con los que trabajamos en el Y
+proyecto.
+
+ 
+
+ 
+
+7. ¿Cuál es la función de las variables de entorno?
+
+ 
+
+Crear un espacio seguro para la configuración de nuestro proyecto que no queremos exponer Y
+en nuestro código.
+
+ 
+
+ 
+
+8. ¿Cuáles loaders usamos para trabajar en Webpack con fuentes?
+
+ 
+
+font-loader y file-loader REPASAR CLASE |
+
+ 
+
+ 
+
+9. ¿Cuál es el comando de webpack-cli para ejecutar nuestro proyecto en modo de
+desarrollo?
+
+https://platzi.com/clases/examen/resultados/2242/ 2/6
+26/12/22, 12:00 https://platzi.com/clases/examen?/resultados/2242/
+
+ 
+
+vetpack --mode development Y |
+
+ 
+
+ 
+
+10. ¿Cuál es el comando de webpack-cli para ejecutar nuestro proyecto en modo de
+producción?
+
+ 
+
+ vebpackeci --mode production REPASAR CLASE
+
+ 
+
+ 
+
+11. ¿Cuál es la expresión regular para que Webpack transpile nuestros archivos .css y .styl
+con su loader correspondiente?
+
+ 
+
+N.cssll.sty1$/ REPASAR CLASE l
+
+ 
+
+ 
+
+12. ¿Cuál es la propiedad del archivo de configuración de Webpack que guarda las
+opciones de optimización?
+
+ 
+
+module.exports = f [...] optimization: £ minimize: true, minimizer: [ new Y
+CssMinimizerPlugin(), new TerserPlugin() ] ) )
+
+ 
+
+ 
+
+13. ¿Cuál plugin nos ayuda a mover archivos a la carpeta de distribution?
+
+ 
+
+MoveWebpack REPASAR CLASE |
+
+ 
+
+ 
+
+14. Después de hacer un import de las imágenes, ¿cómo las llamamos?
+
+ 
+
+Como componentes de React.js. REPASAR CLASE |
+
+ 
+
+ 
+
+15. ¿En dónde establecemos la configuración, loaders y plugins que usamos en Webpack?
+
+https://platzi.com/clases/examen/resultados/2242/ 3/6
+26/12/22, 12:00 https://platzi.com/clases/examen?/resultados/2242/
+
+ 
+
+webpack.config.js Y |
+
+ 
+
+ 
+
+16. ¿Cómo conseguimos que nuestro código de JavaScript sea compatible con todos los
+navegadores?
+
+ 
+
+Integrando Babel a nuestro proyecto y babel-loader a la configuración de Webpack para Y
+archivos .js.
+
+ 
+
+ 
+
+17. ¿Para qué sirven los loaders y plugins en Webpack?
+
+ 
+
+Agregar funcionalidades o configuraciones para trabajar con nuestros recursos. Y |
+
+ 
+
+ 
+
+18. ¿Qué propiedad agregamos al archivo de configuración para indicarle a Webpack que
+trabajaremos en modo desarrollo?
+
+ 
+
+mode: “development” Y |
+
+ 
+
+ 
+
+19. ¿A qué nos ayuda clean-webpack-plugin?
+
+ 
+
+A limpiar nuestra carpeta del build cada vez que volvemos a transpilar el proyecto. Y |
+
+ 
+
+ 
+
+20. ¿Con cuál comando creamos nuestro package.json?
+
+ 
+
+create react app REPASAR CLASE |
+
+ 
+
+ 
+
+21. ¿Qué dependencia adicional agregamos a nuestro proyecto para entender la sintaxis
+de React y JSX?
+
+https://platzi.com/clases/examen/resultados/2242/ 4/6
+26/12/22, 12:00 https://platzi.com/clases/examen?/resultados/2242/
+
+ 
+
+Gbabel/jsx REPASAR CLASE |
+
+ 
+
+ 
+
+22. ¿Con qué comando puedes instalar Webpack Dev Server?
+
+ 
+
+non install fwebpack/dev-server --save-dev REPASAR CLASE
+
+ 
+
+ 
+
+23. ¿En cuál archivo habilitamos el watch en nuestro proyecto?
+
+ 
+
+webpack.config.js Y l
+
+ 
+
+ 
+
+24. ¿Con qué comando puedes instalar Webpack en tu proyecto como dependencia de
+desarrollo?
+
+ 
+
+mon install webpack webpack-c1i REPASAR CLASE |
+
+ 
+
+ 
+
+25. ¿Con qué repositorios te puedes conectar a Netlify?
+
+ 
+
+Todas las respuestas son correctas Y |
+
+ 
+
+ 
+
+26. Netlify es la única plataforma en la que se puede desplegar un proyecto hecho con
+React.js. Esta afirmación es:
+
+ 
+
+Verdadera REPASAR CLASE l
+
+ 
+
+ 
+
+27. La propiedad template en nuestro plugin HTMLWebpackPlugin se refiere al archivo
+FINAL que se ejecuta como resultado de las configuraciones que le aplicamos al
+HTML de nuestro proyecto:
+
+https://platzi.com/clases/examen/resultados/2242/ 5/6
+26/12/22, 12:00 https://platzi.com/clases/examen?/resultados/2242/
+
+ 
+
+Verdadero REPASAR CLASE |
+
+ 
+
+ 
+
+28. ¿Cuál es el script adecuado que nos permitirá habilitar nuestro proyecto en un entorno
+de desarrollo local y no de producción?
+
+ 
+
+start” : "webpack serve" Y
+
+ 
+
+ 
+
+29. Son los loaders necesarios para ejecutar nuestro proyecto de webpack con SASS
+
+ 
+
+styles-loader, scss-loader, scss-loader REPASAR CLASE l
+
+ 
+
+ 
+
+REGRESAR
+
+https://platzi.com/clases/examen/resultados/2242/ 6/6
+

@@ -1,0 +1,193 @@
+27/12/22, 14:41 https://platzi.com/clases/examen?/resultados/3468/
+
+Q (a) 0 Y 157
+
+Curso de React.js: Navegación con React Router
+
+ 
+
+ Aprobaste el curso
+
+  
+
+Felicitaciones, ya puedes acceder a tu diploma digital
+
+9.33 | 14/15
+
+. y Aciertos
+Calificación
+
+1. ¿Cuál es el comando de NPM para instalar la versión 5 de React Router DOM (incluso
+si ya salieron otras versiones ahora o en el futuro)?
+
+ 
+
+a i -S react-router-domáas Y |
+
+ 
+
+ 
+
+2. ¿Cuál es el comando de NPM para instalar la versión 6 de React Router DOM (incluso
+si ya salieron otras versiones ahora o en el futuro)?
+
+ 
+
+npm ¡-S react-router-dom(06 Y |
+
+ 
+
+ 
+
+3. ¿Cuál de las siguientes opciones es una ventaja de utilizar routers como React Router?
+
+https://platzi.com/clases/examen/resultados/3468/ 1/4
+27/12/22, 14:41 https://platzi.com/clases/examen?/resultados/3468/
+
+ 
+
+Mejor separación de responsabilidades. Y |
+
+ 
+
+ 
+
+4. ¿En qué tipo de render solo descargamos una vez el HTML de nuestra app desde el
+servidor, pero con el resto de navegaciones los cambios se hacen por medio de
+JavaScript en el navegador?
+
+ 
+
+ CHent-side render Y
+
+ 
+
+ 
+
+5. El client-side routing es más rápido para la primera carga, pero el server-side routing es
+mucho más rápido para la navegación.
+
+Falso v]
+
+6. Los cambios entre versiones de React Router DOM son drásticos. Es muy difícil y poco
+recomendable pasar de una versión a otra.
+
+me 7
+
+7. ¿Cómo React Router usa React Context?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Debemos encapsular nuestra aplicación en un componente provider (con un nombre que Y
+seguramente terminará en Router) para que React Router sepa qué componente renderizar o
+no dependiendo de la ruta en la que nos encontremos.
+
+ 
+
+ 
+
+8. ¿Usando React Router cómo podemos agregar un componente que se renderice
+siempre sin importar en qué ruta nos encontremos (e.j. Menú)?
+
+https://platzi.com/clases/examen/resultados/3468/ 2/4
+27/12/22, 14:41 https://platzi.com/clases/examen?/resultados/3468/
+
+ 
+
+Agregando el componente general dentro del Provider, pero por fuera de cualquier Y
+componente Route.
+
+ 
+
+ 
+
+9. Todas las versiones de React Router DOM son compatibles con cualquier versión de
+React.js.
+
+pu ,
+
+10. ¿Qué tipo de router nos agrega un /+t/ al principio de nuestras rutas?
+
+ 
+
+ 
+
+ 
+
+HashRouter Y |
+
+ 
+
+ 
+
+11. Tu backend no soporta varias rutas dentro de la aplicación, solo podemos renderizar
+un archivo index.html. ¿Qué tipo de router usarías para soportar navegación?
+
+ 
+
+HashRouter Y |
+
+ 
+
+ 
+
+12. ¿Cuál es la diferencia entre Link y NavLink en React Router DOM 6?
+
+ 
+
+NavLink es recomendable usarlo en menús, Link, en cambio, en cualquier parte REPASAR CLASE |
+
+ 
+
+ 
+
+13. ¿Qué son las rutas dinámicas?
+
+ 
+
+Rutas que siempre renderizan la misma vista o estructura base, pero con pequeñas Y
+diferencias en el contenido gracias a información de la URL.
+
+ 
+
+ 
+
+14. ¿Qué React Hook de React Router DOM 6 nos permite navegar entre rutas de la
+aplicación sin componentes como Link o NavLink?
+
+https://platzi.com/clases/examen/resultados/3468/ 3/4
+27/12/22, 14:41 https://platzi.com/clases/examen?/resultados/3468/
+
+ 
+
+useNavigate Y |
+
+ 
+
+ 
+
+15. ¿Qué pasa si agregamos un componente Route dentro de otro componente Route en
+React Router DOM 6?
+
+ 
+
+El componente Route "madre" se renderizará en los paths de ambas rutas. Además, el Y
+componente Route "hijo" se renderizará en su respectivo path donde el Route "madre" lo haya
+definido gracias al componente Outlet.
+
+ 
+
+ 
+
+REGRESAR
+
+https://platzi.com/clases/examen/resultados/3468/ 4/4
+

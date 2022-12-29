@@ -1,0 +1,134 @@
+27/12/22, 14:36 https://platzi.com/clases/examen?/resultados/2597/
+
+Q (a) A TS
+
+Curso de React.js: Manejo Profesional del Estado
+
+ 
+
+¡No te rindas!
+
+Necesitas una calificación mínima de 9.0 para aprobar.
+Vuelve a intentarlo en 05 horas, 57 minutos, 20 segundos
+
+8 8/10
+
+. % Aciertos
+Calificación
+
+1. ¿Cuál de las afirmaciones es INCORRECTA sobre los estados derivados?
+
+ 
+
+Se crean con React.useState. Y
+
+ 
+
+ 
+
+2. ¿Cuál es la técnica más popular para crear un reducer?
+ES Y l
+
+3. ¿Qué parámetros recibe un reducer?
+
+ 
+
+ 
+
+ 
+
+state y action (un objeto con type y payload) Y |
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/2597/ 1/3
+27/12/22, 14:36 https://platzi.com/clases/examen?/resultados/2597/
+
+4. Ningún paradigma es mejor que otro. Debemos analizar sus beneficios y costos para
+determinar si vale la pena implementarlos.
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+5. ¿Cuál de los siguientes métodos NO PERTENECE al ciclo de vida de los componentes
+creados con React.Component?
+
+ 
+
+componentDidUnmount Y |
+
+ 
+
+ 
+
+6. ¿Qué requisitos / limitaciones tenemos para manejar el estado con reducers?
+
+ 
+
+Debemos usar estados simples o independientes. REPASAR CLASE l
+
+ 
+
+ 
+
+7. ¿Cuál es la diferencia principal al ACTUALIZAR estados compuestos en
+React.Component (con this.setState) vs. React Hooks (con useState)?
+
+ 
+
+Con this.setState actualizamos propiedades del objeto this.state sin afectar o borrar a las Y
+demás. Con useState siempre debemos copiar el estado "anterior" antes de actualizar
+propiedades del objeto state.
+
+ 
+
+ 
+
+8. Si creamos un estado patito con React.useState, a su actualizador por convención lo
+llamaremos setPatito. ¿Cómo se llamaría el actualizador de un estado patito si lo
+creamos con React.useReducer?
+
+ 
+
+updatePatito REPASAR CLASE |
+
+ 
+
+ 
+
+9. ¿Para qué sirven los action creators?
+
+ 
+
+https://platzi.com/clases/examen/resultados/2597/ 2/3
+27/12/22, 14:36 https://platzi.com/clases/examen?/resultados/2597/
+
+ 
+
+Para separar el código de interfaz del código de manejo del estado. Y |
+
+ 
+
+ 
+
+10. ¿Cuándo debemos hacer migraciones de useState a useReducer?
+
+ 
+
+Solo cuando mejore la legibilidad, agilice el mantenimiento y no duela (tanto) hacer el cambio. Y
+
+ 
+
+ 
+
+REGRESAR
+
+https://platzi.com/clases/examen/resultados/2597/ 3/3
+

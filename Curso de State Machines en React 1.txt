@@ -1,0 +1,174 @@
+26/12/22, 11:45 https://platzi.com/clases/examen/resultados/3108/
+
+Q (a) A TS
+
+O Curso de State Machines en React.js
+
+ 
+
+¡No te rindas!
+
+Necesitas una calificación mínima de 9.0 para aprobar.
+Vuelve a intentarlo en 05 horas, 58 minutos, 27 segundos
+
+7.33 | 11/15
+
+. o Aciertos
+Calificación
+
+1. Usamos una máquina de estados cuando queremos describir un sistema que solo
+puede estar en un estado a la vez
+
+ 
+
+| Verdadero Y
+
+ 
+
+ 
+
+2. Son usados para representar una máquina de estados de manera gráfica
+
+ 
+
+Visualizer REPASAR CLASE l
+
+ 
+
+ 
+
+3. Describe el status actual de la máquina
+
+Estado Y |
+
+https://platzi.com/clases/examen/resultados/3108/ 1/3
+
+ 
+
+ 
+26/12/22, 11:45 https://platzi.com/clases/examen/resultados/3108/
+
+4. Lastransiciones son disparadas por un evento y generan un cambio de estado
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+5. Esuna librería e intérprete para trabajar con máquinas de estado y diagramas de
+estado
+
+ES Y |
+6. El método nextEvents nos permite saber qué valores tenemos en el contexto
+
+me 7
+
+7. Son propiedades de los estados
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+value, context, event, action Y l
+
+ 
+
+ 
+
+8. El método matches() permite obtener los valores del contexto
+
+ 
+
+Verdadero REPASAR CLASE |
+
+ 
+
+ 
+
+9. Si intentamos realizar una transición no permitida la máquina de estados vuelve al
+estado inicial
+
+me 7
+
+10. Se pueden disparar al entrar a un estado, al salir de un estado o durante una transición
+
+ 
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/3108/ 2/3
+26/12/22, 11:45 https://platzi.com/clases/examen/resultados/3108/
+
+ 
+
+Acciones Y |
+
+ 
+
+ 
+
+11. Para actualizar el contexto usamos
+
+ 
+
+on REPASAR CLASE
+
+ 
+
+ 
+
+12. Cuando dentro de un estado definimos más estados internos que pueden suceder
+mientras estamos dentro del estado padre estamos usando
+
+ 
+
+Paralelismo REPASAR CLASE l
+
+ 
+
+ 
+
+13. Al usar estados paralelos estos no se afectan entre sí, un cambio en uno no generará
+cambios en el otro
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+14. Un servicio puede invocar una promesa, un callback, observables u otras máquinas
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+15. Para hacer un request usando nuestra máquina de estados podemos usar un
+
+Servicio Y l
+
+REGRESAR
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/3108/ 3/3
+

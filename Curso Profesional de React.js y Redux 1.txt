@@ -1,0 +1,211 @@
+28/12/22, 11:54 https://platzi.com/clases/examen/resultados/3219/
+
+Q (a) 0 Y usos
+
+a Curso Profesional de React.js y Redux
+
+ 
+
+¡No te rindas!
+
+Necesitas una calificación mínima de 9.0 para aprobar.
+Vuelve a intentarlo en 05 horas, 56 minutos, 20 segundos
+
+6.11 11/18
+
+. o Aciertos
+Calificación
+
+1. ¿Cuáles son los principales aspectos que necesitamos de Redux en relación al
+estado?
+
+ 
+
+Dónde almacenarlo, un método para acceder a él y una manera de modificarlo. Y
+
+ 
+
+ 
+
+2. ¿Cuáles son los 3 principios de Redux?
+
+ 
+
+Los actions deben ser funciones puras, el estado es de solo lectura, el reducer c REPASAR CLASE
+estado inicial.
+
+ 
+
+ 
+
+3. El principio de única fuente de verdad se refiere a que:
+
+ 
+
+https://platzi.com/clases/examen/resultados/3219/ 1/4
+28/12/22, 11:54 https://platzi.com/clases/examen/resultados/3219/
+
+ 
+
+Podemos tener varios estados globales pero solo acceder desde un sólo store. REPASAR CLASE |
+
+ 
+
+ 
+
+4. Elestado global de Redux:
+
+ 
+
+Puede ser de cualquier tipo aunque se recomienda un objeto clave-valor. Y
+
+ 
+
+ 
+
+5. Esuna característica de una función pura:
+
+ 
+
+Para una entrada siempre va haber una misma salida. Y l
+
+ 
+
+ 
+
+6. Redux solo puede ser implementado con React.js.
+Falso Y |
+7. Desde el componente se puede modificar directamente el estado global.
+
+me 7
+
+8. Siempre es mejor usar Redux vs. React Context
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Falso, depende de aspectos como el bundle size, la facilidad de depuración y curva de Y
+aprendizaje.
+
+ 
+
+ 
+
+9. Redux permite prevenir renderizados innecesarios.
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/3219/ 2/4
+28/12/22, 11:54 https://platzi.com/clases/examen/resultados/3219/
+
+10. Cuando usamos connect, al momento de testear nuestro componente:
+
+ 
+
+Debemos conectar nuestro componente a Redux en las pruebas. REPASAR CLASE |
+
+ 
+
+ 
+
+11. Cuando usamos useSelector, al momento de testear nuestro componente:
+
+ 
+
+Podemos pasar los valores como props, ya que nuestro componente "no sabe": REPASAR CLASE
+Redux.
+
+ 
+
+ 
+
+12. Redux recomienda dejar de usar connect y usar en cambio useSelector.
+
+ 
+
+Falso REPASAR CLASE |
+
+ 
+
+ 
+
+13. ¿Qué es un Middleware con relación a Redux?
+
+ 
+
+Es el objeto que describe el cambio que se va a hacer al estado. REPASAR CLASE |
+
+ 
+
+ 
+
+14. Redux Thunk tiene mucho menos boilerplate que Redux Saga.
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+15. ¿Por qué es importante la inmutabilidad en Redux?
+
+ 
+
+Porque Redux no indicará a la Ul que debe renderizar nuevamente si su estado inicial y el Y
+estado retornado son exactamente iguales.
+
+ 
+
+ 
+
+https://platzi.com/clases/examen/resultados/3219/ 3/4
+28/12/22, 11:54 https://platzi.com/clases/examen/resultados/3219/
+
+16. Es necesario usar librerías como inmutable.js para trabajar la inmutabilidad en
+nuestros proyectos.
+
+me 7
+
+17. La curva de aprendizaje de Context es más ligera que la de Redux.
+
+ 
+
+ 
+
+ 
+
+Verdadero Y |
+
+ 
+
+ 
+
+18. ¿Cuáles son los usos más comunes de Context?
+
+ 
+
+Datos retornados de una petición asíncrona a un API. REPASAR CLASE l
+
+ 
+
+ 
+
+REGRESAR
+
+https://platzi.com/clases/examen/resultados/3219/ 4/4
+
